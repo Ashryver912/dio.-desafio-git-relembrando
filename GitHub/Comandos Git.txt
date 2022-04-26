@@ -1,0 +1,7 @@
+git config --global user.name "Ashryver901"
+git config --global user.name "bff912@gmail.com"
+git config --list
+git push (adicionar na nuvem)
+git add . (adicionar no repositório local)
+git status (verificar se precisar salvar algo)
+git commit -m (adicionar comentário antes de salvar)
